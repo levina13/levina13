@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="./img/banner.png"  alt="banner"  />
-</div>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=levina13&theme=moltack&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levina13&theme=moltack&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
